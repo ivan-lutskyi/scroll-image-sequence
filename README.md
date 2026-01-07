@@ -1,4 +1,5 @@
 # scroll-image-sequence
+[![npm version](https://img.shields.io/npm/v/scroll-image-sequence.svg)](https://www.npmjs.com/package/scroll-image-sequence)
 
 Canvas-based scroll-driven image sequence animation.
 
